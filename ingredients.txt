@@ -1,0 +1,19 @@
+Produce:
+
+Bakery:
+
+Meat:
+
+Dairy:
+
+Dry Foods:
+
+Canned Foods:
+
+Seasoning:
+
+Liquids:
+
+Herbs:
+
+Deli:
