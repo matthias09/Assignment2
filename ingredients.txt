@@ -1,4 +1,7 @@
 Produce:
+1 Horseradish
+2 Lemons
+1 Lettuce
 
 Bakery:
 
@@ -17,3 +20,11 @@ Liquids:
 Herbs:
 
 Deli:
+
+Fish:
+225g Shelled Prawns
+
+Sauces:
+Tomato Ketchup
+Mayonnaise
+Worcestershire sauce 
