@@ -9,6 +9,8 @@ Bakery:
 Meat:
 
 Dairy:
+Unsalted butter
+Parmesan Cheese
 
 Dry Foods:
 
@@ -16,6 +18,8 @@ Canned Foods:
 
 Seasoning:
 Salt
+Kosher salt
+Black pepper
 
 Liquids:
 Olive Oil 
@@ -24,3 +28,6 @@ Balsamic Glaze
 Herbs:
 
 Deli:
+
+Pasta:
+1 packet fettucine or other long pasta
