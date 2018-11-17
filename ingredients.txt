@@ -2,14 +2,18 @@ Produce:
 1 Horseradish
 2 Lemons
 1 Lettuce
+3 Bananas
 
 Bakery:
+150g Digestive biscuits
 
 Meat:
 0.8kg Beef fillet
-1 meat broth
+1 Meat broth
 
 Dairy:
+390ml full fat condensed milk
+300ml double cream
 
 Dry Foods:
 45g all purpose flour
@@ -26,6 +30,7 @@ Olive oil
 Herbs:
 
 Deli:
+150g butter
 
 Fish:
 225g Shelled Prawns
@@ -34,3 +39,12 @@ Sauces:
 Tomato Ketchup
 Mayonnaise
 Worcestershire sauce 
+
+Sugars:
+75g muscovado sugar
+
+Extracts:
+Vanilla Esxtract
+
+Choclates:
+50g Dark chocolate
