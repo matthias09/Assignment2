@@ -1,8 +1,10 @@
 Produce:
 1 Horseradish
-2 Lemons
+3 Lemons
 1 Lettuce
 3 Bananas
+1 small red Onion
+1 Parsely
 
 Bakery:
 150g Digestive biscuits
@@ -19,6 +21,7 @@ Dry Foods:
 45g all purpose flour
 
 Canned Foods:
+185g canned tuna
 
 Seasoning:
 Salt
@@ -31,6 +34,7 @@ Herbs:
 
 Deli:
 150g butter
+125g cream cheese
 
 Fish:
 225g Shelled Prawns
