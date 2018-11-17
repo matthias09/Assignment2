@@ -11,8 +11,15 @@ Meat:
 Dairy:
 Unsalted butter
 Parmesan Cheese
+2 eggs
+1 Milk
 
 Dry Foods:
+White sugar
+1 packet all-purpose flour
+Unsweetened Cocoa Powder
+Baking Powder
+Baking Soda
 
 Canned Foods:
 
@@ -20,10 +27,12 @@ Seasoning:
 Salt
 Kosher salt
 Black pepper
+Vanilla extract
 
 Liquids:
 Olive Oil 
 Balsamic Glaze
+Vegetable Oil 
 
 Herbs:
 
