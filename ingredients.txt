@@ -3,6 +3,14 @@ Produce:
 226.8g Mushrooms
 1 onion
 1 Eggplant
+300g Cherry Tomatoes
+2 Red Pepper
+1 Courgette Zucchini
+1 Large Red Onion
+3 Garlic Clover
+1 Risotto Rice
+Bunch of Basil
+6 Sundried Tomatoes
 
 
 Bakery:
@@ -27,6 +35,7 @@ Dry Foods:
 
 Canned Foods:
 1 can chicken broth
+1 can Vegatable Stock
 
 
 Seasoning:
@@ -36,6 +45,8 @@ Pepper
 
 Liquids:
 340g Water
+1 Olive oil
+1 Balsamic Vinegar
  
 
 Deli:
@@ -46,6 +57,7 @@ Fish:
 
 Sauces:
 226.8g Pizza Sauce
+1 Passata
  
 
 Sugars:
