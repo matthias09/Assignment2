@@ -2,9 +2,11 @@ Produce:
 1 Lemon
 226.8g Mushrooms
 1 onion
+1 Eggplant
 
 
 Bakery:
+453.6g Pizza Dough
 
 
 Meat:
@@ -13,11 +15,14 @@ Meat:
 Dairy:
 28.6g Butter
 1 Half-and-Half Cream 
+28.3g Ricotta Salata
+113.4 Mozzarella Cheese
 
 
 
 Dry Foods:
 1 All-purpose flour
+1 Flour
 
 
 Canned Foods:
@@ -40,6 +45,7 @@ Fish:
 
 
 Sauces:
+226.8g Pizza Sauce
  
 
 Sugars:
@@ -53,4 +59,5 @@ Pasta:
 
 
 Other: 
+1 Parchment Paper
 
