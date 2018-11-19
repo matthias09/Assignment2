@@ -1,5 +1,7 @@
 Produce:
-1 Lemon 
+1 Lemon
+226.8g Mushrooms
+1 onion
 
 
 Bakery:
@@ -9,16 +11,22 @@ Meat:
 
 
 Dairy:
+28.6g Butter
+1 Half-and-Half Cream 
 
 
 
 Dry Foods:
+1 All-purpose flour
 
 
 Canned Foods:
+1 can chicken broth
 
 
 Seasoning:
+Salt
+Pepper
 
 
 Liquids:
