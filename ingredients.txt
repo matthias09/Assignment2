@@ -4,7 +4,7 @@ Produce:
 1 Lettuce
 1 Bananas
 226.8g Mushrooms
-2 onion
+3 onion
 1 Eggplant
 300g Cherry Tomatoes
 2 Red Pepper
@@ -20,9 +20,15 @@ Bunch of Basil
 5 eggs
 Mint
 1 Honey
-400g floury potatoes
+1 400g floury potato
 150g broccoli
 1 chives
+2 garlic cloves
+1 250g potato
+600 ml vegetable stock
+120g bag mixed watercress, rocket and spinach salad
+20g pine nuts
+
 
 Bakery:
 453.6g Pizza Dough
@@ -48,7 +54,7 @@ Dairy:
 113.4 Mozzarella Cheese
 40g cheddar
 100g cream cheese
-50g natural yogurt
+200g natural yogurt
 1 fullfat milk
 
 
