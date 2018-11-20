@@ -1,10 +1,10 @@
 Produce:
 1 Horseradish
-8 Lemon
+9 Lemon
 1 Lettuce
 1 Bananas
 226.8g Mushrooms
-3 onion
+4 onion
 1 Eggplant
 300g Cherry Tomatoes
 2 Red Pepper
@@ -25,10 +25,10 @@ Mint
 1 chives
 2 garlic cloves
 1 250g potato
-600 ml vegetable stock
 120g bag mixed watercress, rocket and spinach salad
 20g pine nuts
-
+1 celery sticks
+100g frozen broad beans
 
 Bakery:
 453.6g Pizza Dough
@@ -71,6 +71,8 @@ Canned Foods:
 1 can Vegatable Stock
 1 Canned Tuna
 1 can Meat Broth
+1 400g can plum tomatoes with garlic
+1 400g can chickpeas, rinsed and drained
 
 
 Seasoning:
@@ -86,6 +88,9 @@ Liquids:
 2 Vanilla Extract
 Balsamic Glaze
 Vegatable Oil
+1 tbsp ground cumin
+1200 ml vegetable stock
+1 zest
 
 Fish:
 225g Shelled Prawns
