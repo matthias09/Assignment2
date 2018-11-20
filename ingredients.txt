@@ -2,9 +2,9 @@ Produce:
 1 Horseradish
 8 Lemon
 1 Lettuce
-1 Bananas
+15 Bananas
 226.8g Mushrooms
-2 onion
+3 onion
 1 Eggplant
 300g Cherry Tomatoes
 2 Red Pepper
@@ -17,9 +17,13 @@ Bunch of Basil
 6 Sundried Tomatoes
 1 Medium Tomato
 2 Parsley
-2 eggs
+5 eggs
 Mint
 1 Honey
+1 small cauliflower 
+1 fresh bay leaf 
+50g black olives 
+8 fresh thyme sprigs
 
 
 Bakery:
@@ -34,20 +38,25 @@ Meat:
 Dairy:
 1 Full fat Condensed Milk
 1 Double Cream
-1 Milk
+2 Milk
 1 Unsalted Butter
 1 Parmesan Cheese
 1 Mascarpone Cheese
-2 Butter
+2 500g Butter
 1 Half-and-Half Cream 
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
+1 can sweetened condensed milk
+1 whole milk 
+150g wensleydale cheese 
+100ml double cream 
 
 
 
 Dry Foods:
 2 All-purpose flour
 1 Flour
+1 plain flour
 1 Unsweeted Cocoa Powder
 1 Baking Soda
 1 Baking Powder
@@ -58,6 +67,7 @@ Canned Foods:
 1 can Vegatable Stock
 1 Canned Tuna
 1 can Meat Broth
+1 can Frozen Whipped Cream
 
 
 Seasoning:
@@ -91,6 +101,7 @@ Sugars:
 1 Muscovado Sugar
 Icing sugar
 Caster Sugar
+1 Brown sugar
 
 
 Chocolates:
@@ -103,5 +114,7 @@ Pasta:
 
 Other: 
 1 Parchment Paper
+1 Vanilla Pudding Mix
+1 Packet Vanilla Wafers
 
 
