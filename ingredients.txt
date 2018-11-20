@@ -2,7 +2,7 @@ Produce:
 1 Horseradish
 8 Lemon
 1 Lettuce
-1 Bananas
+15 Bananas
 226.8g Mushrooms
 2 onion
 1 Eggplant
@@ -34,7 +34,7 @@ Meat:
 Dairy:
 1 Full fat Condensed Milk
 1 Double Cream
-1 Milk
+2 Milk
 1 Unsalted Butter
 1 Parmesan Cheese
 1 Mascarpone Cheese
@@ -42,6 +42,7 @@ Dairy:
 1 Half-and-Half Cream 
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
+1 can sweetened condensed milk
 
 
 
@@ -58,6 +59,7 @@ Canned Foods:
 1 can Vegatable Stock
 1 Canned Tuna
 1 can Meat Broth
+1 can Frozen Whipped Cream
 
 
 Seasoning:
@@ -103,5 +105,7 @@ Pasta:
 
 Other: 
 1 Parchment Paper
+1 Vanilla Pudding Mix
+1 Packet Vanilla Wafers
 
 
