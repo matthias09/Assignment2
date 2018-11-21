@@ -3,20 +3,20 @@ Produce:
 9 Lemon
 1 Lettuce
 15 Bananas
-226.8g Mushrooms
-7 onion
+476.8g Mushrooms
+8 onion
 1 Eggplant
 300g Cherry Tomatoes
 2 Red Pepper
 1 Courgette Zucchini
 1 Small Red Onion
 1 Large Red Onion
-3 Garlic Clover
+4 Garlic Clover
 1 Risotto Rice
 Bunch of Basil
 6 Sundried Tomatoes
 1 Medium Tomato
-2 Parsley
+3 Parsley
 5 eggs
 Mint
 1 Honey
@@ -33,7 +33,7 @@ Mint
 20g pine nuts
 1 celery sticks
 100g frozen broad beans
->>>>>>> Branch1.2
+
 
 Bakery:
 453.6g Pizza Dough
@@ -45,6 +45,7 @@ Bakery:
 
 Meat:
 0.8kg Beef Fillet
+500g fillet steak
 
 Dairy:
 1 Full fat Condensed Milk
@@ -65,6 +66,7 @@ Dairy:
 100g cream cheese
 200g natural yogurt
 1 fullfat milk
+150g crème fraîche
 
 
 Dry Foods:
@@ -84,6 +86,7 @@ Canned Foods:
 1 can Frozen Whipped Cream
 1 400g can plum tomatoes with garlic
 1 400g can chickpeas, rinsed and drained
+1 Beef Stock
 
 
 Seasoning:
@@ -113,6 +116,7 @@ Sauces:
 Ketchup
 Mayonaise
 Worchester Sauce
+English Mustard
 
 
 Sugars:
@@ -129,6 +133,7 @@ Chocolates:
 
 Pasta:
 1 Fettucini
+1 Pappardelle pasta
 
 
 Other: 
