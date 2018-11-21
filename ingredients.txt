@@ -27,13 +27,14 @@ Mint
 1 400g floury potato
 150g broccoli
 1 chives
-6 garlic cloves
+8 garlic cloves
 1 250g potato
 120g bag mixed watercress, rocket and spinach salad
 20g pine nuts
 3 celery sticks
 100g frozen broad beans
 1 carrot
+50g spinach
 2 bay leaves
 2 tsp dried oregano
 1 handful dried porcini mushromms
@@ -56,19 +57,19 @@ Meat:
 Dairy:
 1 Full fat Condensed Milk
 1 Double Cream
-2 Milk
+3 Milk
 1 Unsalted Butter
 1 Parmesan Cheese
 1 Mascarpone Cheese
-2 500g Butter
+3 500g Butter
 1 Half-and-Half Cream 
 28.3g Ricotta Salata
-113.4 Mozzarella Cheese
+313.4 Mozzarella Cheese
 1 can sweetened condensed milk
 2 whole milk 
 150g wensleydale cheese 
 100ml double cream 
-40g cheddar
+140g cheddar
 100g cream cheese
 200g natural yogurt
 1 fullfat milk
@@ -114,6 +115,7 @@ Vegatable Oil
 1200 ml vegetable stock
 1 zest
 1 White wine
+1 Pale ale
 
 Fish:
 225g Shelled Prawns
@@ -148,6 +150,7 @@ Pasta:
 1 Fettucini
 1 Pappardelle pasta
 1 spaghetti
+1 Macaroni
 
 
 Other: 
