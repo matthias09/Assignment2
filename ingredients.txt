@@ -4,7 +4,7 @@ Produce:
 1 Lettuce
 15 Bananas
 476.8g Mushrooms
-8 onion
+9 onion
 1 Eggplant
 300g Cherry Tomatoes
 2 Red Pepper
@@ -13,7 +13,7 @@ Produce:
 1 Large Red Onion
 4 Garlic Clover
 1 Risotto Rice
-Bunch of Basil
+2 Bunch of Basil
 6 Sundried Tomatoes
 1 Medium Tomato
 3 Parsley
@@ -23,17 +23,20 @@ Mint
 1 small cauliflower 
 1 fresh bay leaf 
 50g black olives 
-8 fresh thyme sprigs
+9 fresh thyme sprigs
 1 400g floury potato
 150g broccoli
 1 chives
-2 garlic cloves
+6 garlic cloves
 1 250g potato
 120g bag mixed watercress, rocket and spinach salad
 20g pine nuts
-1 celery sticks
+3 celery sticks
 100g frozen broad beans
-
+1 carrot
+2 bay leaves
+2 tsp dried oregano
+1 handful dried porcini mushromms
 
 Bakery:
 453.6g Pizza Dough
@@ -46,6 +49,9 @@ Bakery:
 Meat:
 0.8kg Beef Fillet
 500g fillet steak
+400g beef mice
+400g Italian pork sausages
+200g smoked pancetta
 
 Dairy:
 1 Full fat Condensed Milk
@@ -59,7 +65,7 @@ Dairy:
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
 1 can sweetened condensed milk
-1 whole milk 
+2 whole milk 
 150g wensleydale cheese 
 100ml double cream 
 40g cheddar
@@ -67,6 +73,7 @@ Dairy:
 200g natural yogurt
 1 fullfat milk
 150g crème fraîche
+100g Parmesan
 
 
 Dry Foods:
@@ -87,6 +94,7 @@ Canned Foods:
 1 400g can plum tomatoes with garlic
 1 400g can chickpeas, rinsed and drained
 1 Beef Stock
+4 400g cans chopped tomatoes
 
 
 Seasoning:
@@ -105,6 +113,7 @@ Vegatable Oil
 1 tbsp ground cumin
 1200 ml vegetable stock
 1 zest
+1 White wine
 
 Fish:
 225g Shelled Prawns
@@ -117,6 +126,8 @@ Ketchup
 Mayonaise
 Worchester Sauce
 English Mustard
+1 tomato purée
+1 Thai fish sauce
 
 
 Sugars:
@@ -125,6 +136,8 @@ Sugars:
 Icing sugar
 Caster Sugar
 1 Brown sugar
+1 golden caster sugar
+1 Red wine vinegar
 
 
 Chocolates:
@@ -134,6 +147,7 @@ Chocolates:
 Pasta:
 1 Fettucini
 1 Pappardelle pasta
+1 spaghetti
 
 
 Other: 
