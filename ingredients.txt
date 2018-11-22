@@ -1,10 +1,10 @@
 Produce:
 1 Horseradish
-8 Lemon
+9 Lemon
 1 Lettuce
 15 Bananas
 226.8g Mushrooms
-2 onion
+7 onion
 1 Eggplant
 300g Cherry Tomatoes
 2 Red Pepper
@@ -17,15 +17,29 @@ Bunch of Basil
 6 Sundried Tomatoes
 1 Medium Tomato
 2 Parsley
-8 eggs
+13 eggs
 Mint
 1 Honey
-
+1 small cauliflower 
+1 fresh bay leaf 
+50g black olives 
+8 fresh thyme sprigs
+1 400g floury potato
+150g broccoli
+1 chives
+2 garlic cloves
+1 250g potato
+120g bag mixed watercress, rocket and spinach salad
+20g pine nuts
+1 celery sticks
+100g frozen broad beans
 
 Bakery:
 453.6g Pizza Dough
 2 Packets Digestive Biscuits
 1 Loaf of French or Italian Bread
+60g fresh breadcrumbs
+110g sesame seeds
 
 
 Meat:
@@ -38,8 +52,9 @@ Dairy:
 1 Milk
 1 Unsalted Butter
 1 Parmesan Cheese
-2 Mascarpone Cheese
+3 Mascarpone Cheese
 2 Butter
+2 500g Butter
 1 Half-and-Half Cream 
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
@@ -47,11 +62,20 @@ Dairy:
 1 Natural Yogurt
 5 Heavy Cream
 1 Skimmed Milk
+1 whole milk 
+150g wensleydale cheese 
+100ml double cream 
+40g cheddar
+100g cream cheese
+200g natural yogurt
+1 fullfat milk
+
 
 
 Dry Foods:
 2 All-purpose flour
-1 Flour
+1 plain flour
+3 Flour
 1 Unsweeted Cocoa Powder
 1 Baking Soda
 1 Baking Powder
@@ -64,6 +88,8 @@ Canned Foods:
 1 Canned Tuna
 1 can Meat Broth
 1 can Frozen Whipped Cream
+1 400g can plum tomatoes with garlic
+1 400g can chickpeas, rinsed and drained
 
 
 Seasoning:
@@ -79,6 +105,9 @@ Liquids:
 2 Vanilla Extract
 Balsamic Glaze
 Vegatable Oil
+1 tbsp ground cumin
+1200 ml vegetable stock
+1 zest
 
 Fish:
 225g Shelled Prawns
@@ -97,7 +126,7 @@ Sugars:
 1 Muscovado Sugar
 Icing sugar
 Caster Sugar
-1 Brown Sugar
+2 Brown Sugar
 1 Cinnamon Sugar
 1 Golden Caster Sugar
 
