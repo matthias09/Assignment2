@@ -3,7 +3,7 @@ Produce:
 9 Lemon
 1 Lettuce
 15 Bananas
-226.8g Mushrooms
+354g Mushrooms
 7 onion
 1 Eggplant
 300g Cherry Tomatoes
@@ -11,10 +11,11 @@ Produce:
 1 Courgette Zucchini
 1 Small Red Onion
 1 Large Red Onion
-3 Garlic Clover
+4 Garlic Clover
 1 Risotto Rice
-Bunch of Basil
+2 Bunches of Basil
 6 Sundried Tomatoes
+Handful cherry tomatoes
 1 Medium Tomato
 2 Parsley
 13 eggs
@@ -27,23 +28,26 @@ Mint
 1 400g floury potato
 150g broccoli
 1 chives
-2 garlic cloves
+3 garlic cloves
 1 250g potato
 120g bag mixed watercress, rocket and spinach salad
 20g pine nuts
 1 celery sticks
 100g frozen broad beans
+170g sliced pimiento-stuffed green olives
 
 Bakery:
-453.6g Pizza Dough
+2 Pizza Dough
 2 Packets Digestive Biscuits
 1 Loaf of French or Italian Bread
 60g fresh breadcrumbs
 110g sesame seeds
+1 pizza crust
 
 
 Meat:
 0.8kg Beef Fillet
+1 roll pepperoni
 
 Dairy:
 1 Full fat Condensed Milk
@@ -69,6 +73,9 @@ Dairy:
 100g cream cheese
 200g natural yogurt
 1 fullfat milk
+125g ball mozzarella
+1 handful parmesan cheese
+227g sliced provolene cheese
 
 
 
@@ -80,6 +87,9 @@ Dry Foods:
 1 Baking Soda
 1 Baking Powder
 1 Self Raising Flour
+1 300g strong bread flour
+1 Yeast
+
 
 
 Canned Foods:
@@ -96,6 +106,7 @@ Seasoning:
 Salt
 Pepper
 1 Kosher Salt
+1 oregano
 
 
 Liquids:
@@ -114,8 +125,8 @@ Fish:
 
 
 Sauces:
-226.8g Pizza Sauce
-1 Passata
+740.8g Pizza Sauce
+2 Passata
 Ketchup
 Mayonaise
 Worchester Sauce
