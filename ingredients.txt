@@ -33,16 +33,16 @@ Meat:
 
 Dairy:
 1 Full fat Condensed Milk
-1 Double Cream
+2 Double Cream
 1 Milk
 1 Unsalted Butter
 1 Parmesan Cheese
-1 Mascarpone Cheese
+2 Mascarpone Cheese
 2 Butter
 1 Half-and-Half Cream 
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
-1 Naturak Yogurt
+1 Natural Yogurt
 
 
 Dry Foods:
@@ -94,11 +94,13 @@ Icing sugar
 Caster Sugar
 1 Brown Sugar
 1 Cinnamon Sugar
+1 Golden Caster Sugar
 
 
 Chocolates:
-1 Dark Chocolate
+2 Dark Chocolate
 1 Tub Nutella
+1 Cocoa Powder
 
 
 Pasta:
@@ -107,5 +109,8 @@ Pasta:
 
 Other: 
 1 Parchment Paper
+1 Marsala
+1 Coffee
+1 Sponge Fingers
 
 
