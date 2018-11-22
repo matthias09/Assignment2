@@ -17,7 +17,7 @@ Bunch of Basil
 6 Sundried Tomatoes
 1 Medium Tomato
 2 Parsley
-2 eggs
+3 eggs
 Mint
 1 Honey
 
@@ -42,7 +42,7 @@ Dairy:
 1 Half-and-Half Cream 
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
-
+1 Naturak Yogurt
 
 
 Dry Foods:
@@ -51,6 +51,7 @@ Dry Foods:
 1 Unsweeted Cocoa Powder
 1 Baking Soda
 1 Baking Powder
+1 Self Raising Flour
 
 
 Canned Foods:
@@ -91,10 +92,13 @@ Sugars:
 1 Muscovado Sugar
 Icing sugar
 Caster Sugar
+1 Brown Sugar
+1 Cinnamon Sugar
 
 
 Chocolates:
 1 Dark Chocolate
+1 Tub Nutella
 
 
 Pasta:
