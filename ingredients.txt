@@ -43,7 +43,8 @@ Dairy:
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
 1 Natural Yogurt
-2 Heavy Cream
+5 Heavy Cream
+1 Skimmed Milk
 
 
 Dry Foods:
@@ -115,5 +116,5 @@ Other:
 1 Marsala
 1 Coffee
 1 Sponge Fingers
-
+2 Gelatin
 
