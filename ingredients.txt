@@ -17,7 +17,7 @@ Bunch of Basil
 6 Sundried Tomatoes
 1 Medium Tomato
 2 Parsley
-2 eggs
+8 eggs
 Mint
 1 Honey
 
@@ -33,17 +33,20 @@ Meat:
 
 Dairy:
 1 Full fat Condensed Milk
-1 Double Cream
 2 Milk
+3 Double Cream
+1 Milk
 1 Unsalted Butter
 1 Parmesan Cheese
-1 Mascarpone Cheese
+2 Mascarpone Cheese
 2 Butter
 1 Half-and-Half Cream 
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
 1 can sweetened condensed milk
-
+1 Natural Yogurt
+5 Heavy Cream
+1 Skimmed Milk
 
 
 Dry Foods:
@@ -52,6 +55,7 @@ Dry Foods:
 1 Unsweeted Cocoa Powder
 1 Baking Soda
 1 Baking Powder
+1 Self Raising Flour
 
 
 Canned Foods:
@@ -93,10 +97,17 @@ Sugars:
 1 Muscovado Sugar
 Icing sugar
 Caster Sugar
+1 Brown Sugar
+1 Cinnamon Sugar
+1 Golden Caster Sugar
 
 
 Chocolates:
-1 Dark Chocolate
+2 Dark Chocolate
+1 Tub Nutella
+1 Cocoa Powder
+1 Unsweetened Cocoa Powder
+1 Semisweet Chocolate
 
 
 Pasta:
@@ -107,5 +118,8 @@ Other:
 1 Parchment Paper
 1 Vanilla Pudding Mix
 1 Packet Vanilla Wafers
-
+1 Marsala
+1 Coffee
+1 Sponge Fingers
+2 Gelatin
 
