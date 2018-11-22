@@ -17,7 +17,7 @@ Bunch of Basil
 6 Sundried Tomatoes
 1 Medium Tomato
 2 Parsley
-3 eggs
+8 eggs
 Mint
 1 Honey
 
@@ -43,6 +43,7 @@ Dairy:
 28.3g Ricotta Salata
 113.4 Mozzarella Cheese
 1 Natural Yogurt
+2 Heavy Cream
 
 
 Dry Foods:
@@ -101,6 +102,8 @@ Chocolates:
 2 Dark Chocolate
 1 Tub Nutella
 1 Cocoa Powder
+1 Unsweetened Cocoa Powder
+1 Semisweet Chocolate
 
 
 Pasta:
